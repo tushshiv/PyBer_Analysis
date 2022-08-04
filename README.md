@@ -12,3 +12,6 @@ Number of rides per city type
 
 ![image] (ridecount.PNG)
 
+Numner of drivers per city type
+
+![image](total driver.PNG)
