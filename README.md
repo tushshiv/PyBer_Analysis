@@ -33,3 +33,7 @@ total weekly estimate of total fares by city type
 ![image](Graph_01.PNG)
 
 ## Summary
+
+* 3rd week of February had the highest numner of total fares for all city types indicating high sales during this period. Focus should be more in acquiring customers during this duration.
+* For rural city type, 1st week of April was alsto the highest sales number. This means this should be the time to get more customers in rural city types.
+* For urban. The first week of january shows lowest sales number and the business shoudl use some promos or discount to get the fare numbers more in the range 2000 CAD to 2500 CAD. 
