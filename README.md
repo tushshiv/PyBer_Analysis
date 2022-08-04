@@ -7,6 +7,8 @@ After the succes of the inital project for Visulaiize, The following assignment 
 * Summarize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results
-Numeber of rides per city type
+
+Number of rides per city type
 
 ![image] (ridecount.PNG)
+
