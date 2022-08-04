@@ -6,3 +6,7 @@ After the succes of the inital project for Visulaiize, The following assignment 
 * Use Pandas and Matplotlib to create a multiple-line graph that shows the total weekly fares for each city type. 
 * Summarize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
+## Results
+Numeber of rides per city type
+
+![image] (ridecount.PNG)
