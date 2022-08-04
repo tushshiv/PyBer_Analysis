@@ -10,8 +10,26 @@ After the succes of the inital project for Visulaiize, The following assignment 
 
 Number of rides per city type
 
-![image] (ridecount.PNG)
+![image](ride_count.PNG)
 
-Numner of drivers per city type
+Number of drivers per city type
 
-![image](total driver.PNG)
+![image](total_driver.PNG)
+
+Total fare per City type
+
+![image](Total_fare.PNG)
+
+Average fare per ride per city type
+
+![image](average_fare_per_ride.PNG)
+
+Average fare per driver per city type
+
+![image](Average_fare_per_driver.PNG)
+
+total weekly estimate of total fares by city type
+
+![image](Graph_01.PNG)
+
+## Summary
